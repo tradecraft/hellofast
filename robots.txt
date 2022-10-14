@@ -1,0 +1,1 @@
+Sitemap: https://tradecraft.github.io/hellofast/sitemap.xml
